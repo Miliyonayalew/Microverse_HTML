@@ -25,6 +25,38 @@ html {
 
 }
 
-#heading h6 {
+#heading p {
   font-size: 1.5rem;
 }
+
+#heading p{
+  margin: 5px;
+}
+
+#img-div{
+  margin: 5px;
+  padding: 30px;
+  background-color: white;
+}
+
+img{
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+#img-caption{
+  font-size: 1.7rem;
+  margin: 15px;
+}
+
+#tribute-info{
+  margin: 30px;
+
+}
+
+#tribute-info h3{
+  font-size: 3rem;
+  text-align: center;
+  padding: 10px;
+}
+
